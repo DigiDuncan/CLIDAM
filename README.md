@@ -1,2 +1,2 @@
-# DA-CLICOM
-DeviantArt Command Line Interface COllections Manager.
+# CLIDAM
+## **C**ommand-**L**ine **I**nterface **D**eviantArt **M**anager
