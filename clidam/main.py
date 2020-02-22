@@ -1,1 +1,2 @@
-print("There's nothing here yet!")
+def main():
+	print("There's nothing here yet!")

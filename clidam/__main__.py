@@ -1,4 +1,4 @@
-from digiwof.main import main
+from clidam.main import main
 
 if __name__ == "__main__":
     main()

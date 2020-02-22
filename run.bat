@@ -1,2 +1,3 @@
-py main.py
+@echo off
+py -m clidam
 pause
