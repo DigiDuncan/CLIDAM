@@ -1,3 +1,3 @@
 @echo off
-py -m clidam
+py -3.8 -m clidam
 pause
