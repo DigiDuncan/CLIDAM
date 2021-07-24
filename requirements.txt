@@ -1,1 +1,1 @@
-digiformatter==0.5.2
+rich==10.6.0
