@@ -1,1 +1,2 @@
 rich==10.6.0
+ascii-magic==1.5.5
